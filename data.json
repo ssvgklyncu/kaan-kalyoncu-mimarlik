@@ -1,0 +1,453 @@
+{
+  "ofis": {
+    "ad": "Kaan Kalyoncu Mimarlık",
+    "altBaslik": "Eski Foça, İzmir",
+    "mimar": "Kaan Kalyoncu",
+    "unvan": "Mimar",
+    "hakkinda": "Eski Foça'da, taş evlerin ve balıkçı teknelerinin arasında çalışan bir mimarlık ofisi. Konut, kültür yapıları ve tarihi yapıların yeniden kullanımı üzerine üretiyoruz.",
+    "hikaye": "Kaan Kalyoncu Mimarlık, Eski Foça'nın dar sokaklarında, eski bir taş evin üst katında kuruldu. Ofisin penceresinden görünen liman, ilk günden beri çalışmalarımızın ölçüsü oldu: denizle, taşla ve gölgeyle konuşan, yerine ait yapılar. Bodrum'dan Mardin'e uzanan projelerimizin her birine önce yerin hikâyesini dinleyerek başlıyoruz.",
+    "felsefe": "Bir yapının en iyi hâli, oraya hep oradaymış gibi oturmasıdır. Yerel malzemeyi, el işçiliğini ve iklimi tasarımın merkezine koyuyor; az ama kalıcı olanı arıyoruz. Restorasyonda özgün olanı korur, yeni eklenen her şeyi dürüstçe ve sökülebilir biçimde yaparız.",
+    "adres": "Kale İçi Mah., Eski Foça, Foça / İzmir",
+    "calisma": "Hafta içi 09.00 – 18.00 · Randevu ile",
+    "eposta": "iletisim@kaankalyoncumimarlik.com",
+    "telefon": "+90 232 000 00 00",
+    "whatsapp": "905550000000",
+    "instagram": "",
+    "linkedin": ""
+  },
+  "projeler": [
+    {
+      "id": "gumusluk-tas-ev",
+      "tur": "profesyonel",
+      "yer": "kuzey-1",
+      "baslik": "Gümüşlük Taş Ev",
+      "yil": 2025,
+      "konum": "Bodrum",
+      "kategori": "Konut",
+      "alan": "240 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Yamaca oturan, yerel taşla örülmüş iki katlı bir yazlık konut. Kütle, mevcut zeytin ağaçlarını koruyacak şekilde ikiye bölündü; aradaki gölgeli avlu evin ortak yaşam alanı oldu.",
+      "programlar": [
+        "Revit",
+        "Lumion",
+        "Photoshop"
+      ],
+      "kunye": {
+        "İşveren": "Özel",
+        "Fotoğraf": "Kaan Kalyoncu Mimarlık"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "moda-mahalle-kutuphanesi",
+      "tur": "profesyonel",
+      "yer": "kuzey-2",
+      "baslik": "Moda Mahalle Kütüphanesi",
+      "yil": 2024,
+      "konum": "İstanbul",
+      "kategori": "Kültür",
+      "alan": "1.150 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Eski bir trafo binasının mahalle kütüphanesine dönüştürülmesi. Okuma salonu, kuzeyden alınan tepe ışığıyla aydınlatılıyor; giriş katı sokağa açık bir çalışma avlusu olarak tasarlandı.",
+      "programlar": [
+        "Revit",
+        "Rhino",
+        "Enscape"
+      ],
+      "kunye": {
+        "İşveren": "Belediye",
+        "Statik": "Örnek Mühendislik"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "urla-bag-evi",
+      "tur": "profesyonel",
+      "yer": "kuzey-3",
+      "baslik": "Urla Bağ Evi",
+      "yil": 2023,
+      "konum": "İzmir",
+      "kategori": "Konut",
+      "alan": "180 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Bağ içinde, tek katlı ve uzun bir konut. Ahşap gölgelikli galeri, evi batı güneşinden koruyor ve bağa bakan bir yarı açık oturma alanı oluşturuyor.",
+      "programlar": [
+        "SketchUp",
+        "V-Ray",
+        "AutoCAD"
+      ],
+      "kunye": {
+        "İşveren": "Özel"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "karakoy-ofis-donusumu",
+      "tur": "profesyonel",
+      "yer": "kuzey-4",
+      "baslik": "Karaköy Ofis Dönüşümü",
+      "yil": 2024,
+      "konum": "İstanbul",
+      "kategori": "İç Mimari",
+      "alan": "420 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "1890'lardan kalma bir han katının tasarım stüdyosuna dönüştürülmesi. Tuğla tonozlar açığa çıkarıldı, yeni eklenen her şey sökülebilir çelik ve ahşapla yapıldı.",
+      "programlar": [
+        "AutoCAD",
+        "Revit",
+        "Twinmotion"
+      ],
+      "kunye": {
+        "İşveren": "Özel şirket"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "eskisehir-atolye",
+      "tur": "profesyonel",
+      "yer": "guney-1",
+      "baslik": "Eskişehir Seramik Atölyesi",
+      "yil": 2022,
+      "konum": "Eskişehir",
+      "kategori": "Endüstriyel",
+      "alan": "650 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Fırın, sır ve satış bölümlerini tek çatı altında toplayan bir üretim yapısı. Testere dişi çatı, çalışma tezgâhlarına gölgesiz bir kuzey ışığı veriyor.",
+      "programlar": [
+        "Revit",
+        "Enscape"
+      ],
+      "kunye": {
+        "İşveren": "Kooperatif"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "ayvalik-yag-fabrikasi",
+      "tur": "profesyonel",
+      "yer": "guney-2",
+      "baslik": "Ayvalık Zeytinyağı Fabrikası",
+      "yil": 2023,
+      "konum": "Balıkesir",
+      "kategori": "Restorasyon",
+      "alan": "2.300 m²",
+      "durum": "Uygulama sürüyor",
+      "aciklama": "Tescilli bir zeytinyağı fabrikasının otel ve müzeye dönüştürülmesi için restorasyon ve yeniden kullanım projesi. Baca ve pres makineleri yerinde korunarak sergileniyor.",
+      "programlar": [
+        "AutoCAD",
+        "Revit",
+        "Photoshop"
+      ],
+      "kunye": {
+        "İşveren": "Özel",
+        "Danışman": "Örnek Restorasyon"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "datca-kiyi-evi",
+      "tur": "profesyonel",
+      "yer": "guney-3",
+      "baslik": "Datça Kıyı Evi",
+      "yil": 2022,
+      "konum": "Muğla",
+      "kategori": "Konut",
+      "alan": "165 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Zeytinlik bir yamaçta, denize bakan teraslar halinde kademelenen bir konut. Kalın taş duvarlar yazın içeriyi serin tutuyor; tüm odalar ortak bir gölgeli sundurmaya açılıyor.",
+      "programlar": [
+        "ArchiCAD",
+        "Twinmotion"
+      ],
+      "kunye": {
+        "İşveren": "Özel"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "mardin-tas-konak",
+      "tur": "profesyonel",
+      "yer": "guney-4",
+      "baslik": "Mardin Taş Konak",
+      "yil": 2021,
+      "konum": "Mardin",
+      "kategori": "Restorasyon",
+      "alan": "540 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Avlulu, üç katlı tescilli bir taş konağın butik otele dönüştürülmesi. Özgün kemerli eyvanlar korunurken servis birimleri avlunun altına, toprağa gömülü bir kata alındı.",
+      "programlar": [
+        "AutoCAD",
+        "Revit",
+        "Photoshop"
+      ],
+      "kunye": {
+        "İşveren": "Özel",
+        "Danışman": "Örnek Restorasyon"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "seferihisar-kooperatif-pazari",
+      "tur": "profesyonel",
+      "baslik": "Seferihisar Kooperatif Pazarı",
+      "yil": 2020,
+      "konum": "İzmir",
+      "kategori": "Kamu",
+      "alan": "900 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Üreticilerin haftada üç gün tezgâh açtığı, ahşap çatı makaslarıyla örtülü yarı açık bir pazar yeri. Pazar olmayan günlerde gölgeli bir meydan olarak kullanılıyor.",
+      "programlar": [
+        "Revit",
+        "SketchUp"
+      ],
+      "kunye": {
+        "İşveren": "Kooperatif"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "bozcaada-sarap-evi",
+      "tur": "profesyonel",
+      "baslik": "Bozcaada Şarap Evi",
+      "yil": 2019,
+      "konum": "Çanakkale",
+      "kategori": "Turizm",
+      "alan": "310 m²",
+      "durum": "Tamamlandı",
+      "aciklama": "Bağların arasında, yarı gömülü bir tadım mahzeni ve üstünde rüzgârdan korunan bir teras. Taş duvarlar, adanın eski bağ evlerinin yapım tekniğiyle örüldü.",
+      "programlar": [
+        "ArchiCAD",
+        "Lumion"
+      ],
+      "kunye": {
+        "İşveren": "Özel"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "foca-balikci-barinagi",
+      "tur": "profesyonel",
+      "baslik": "Foça Balıkçı Barınağı",
+      "yil": 2026,
+      "konum": "İzmir",
+      "kategori": "Kamu",
+      "alan": "480 m²",
+      "durum": "Proje aşamasında",
+      "aciklama": "Eski Foça limanında, ağ onarım atölyeleri, soğuk hava deposu ve balıkçı kahvesini bir araya getiren alçak, uzun bir yapı. Cephe, kıyıdaki eski taş mendireği izliyor.",
+      "programlar": [
+        "Revit",
+        "Rhino",
+        "Enscape"
+      ],
+      "kunye": {
+        "İşveren": "Kooperatif"
+      },
+      "kapak": "",
+      "kapakBuyuk": "",
+      "gorseller": []
+    },
+    {
+      "id": "kiyi-kenti-rekreasyon",
+      "tur": "akademik",
+      "yer": "masa-1",
+      "baslik": "Kıyı Kenti Rekreasyon Alanı",
+      "yil": 2019,
+      "donem": "Güz",
+      "ders": "Mimari Proje IV",
+      "okul": "Örnek Üniversitesi Mimarlık Fakültesi",
+      "hoca": "Prof. Dr. Örnek Hoca",
+      "aciklama": "Terk edilmiş bir iskele alanının balıkçı barınağı, pazar yeri ve yürüyüş parkıyla yeniden kente bağlanması.",
+      "juriNotu": "Kıyı ile kent arasındaki kesit iyi kurulmuş. Pazar yeri ile barınak arasındaki servis ilişkisi daha açık çözülebilirdi.",
+      "programlar": [
+        "AutoCAD",
+        "SketchUp",
+        "Photoshop"
+      ],
+      "paftalar": [
+        {
+          "ad": "Vaziyet Planı",
+          "url": ""
+        },
+        {
+          "ad": "Zemin Kat Planı",
+          "url": ""
+        },
+        {
+          "ad": "Kesitler",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "bitirme-kent-arsivi",
+      "tur": "akademik",
+      "yer": "masa-2",
+      "baslik": "Bitirme Projesi: Kent Arşivi",
+      "yil": 2021,
+      "donem": "Bahar",
+      "ders": "Diploma Projesi",
+      "okul": "Örnek Üniversitesi Mimarlık Fakültesi",
+      "hoca": "Doç. Dr. Örnek Hoca",
+      "aciklama": "Tarihi yarımadada bir kent arşivi ve araştırma merkezi. Arşiv depoları toprağa gömülü, okuma salonları ise sokak kotunda halka açık.",
+      "juriNotu": "Program ile kent dokusu arasındaki ilişki güçlü. Depoların iklimlendirme stratejisi detaylandırılmalı.",
+      "programlar": [
+        "Revit",
+        "Lumion",
+        "InDesign"
+      ],
+      "paftalar": [
+        {
+          "ad": "Konsept",
+          "url": ""
+        },
+        {
+          "ad": "Planlar",
+          "url": ""
+        },
+        {
+          "ad": "Görünüşler",
+          "url": ""
+        },
+        {
+          "ad": "Sistem Detayı",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "ahsap-detaylar",
+      "tur": "akademik",
+      "yer": "masa-3",
+      "baslik": "Ahşap Yapı Detayları",
+      "yil": 2018,
+      "donem": "Bahar",
+      "ders": "Yapı Bilgisi II",
+      "okul": "Örnek Üniversitesi Mimarlık Fakültesi",
+      "hoca": "Öğr. Gör. Örnek Hoca",
+      "aciklama": "Geleneksel bağdadi duvar ve ahşap karkas sistemlerinin 1/5 ölçekli detay çizimleri.",
+      "juriNotu": "Detaylar özenli ve okunaklı. Su yalıtımı katmanları daha dikkatli gösterilmeli.",
+      "programlar": [
+        "AutoCAD",
+        "El çizimi"
+      ],
+      "paftalar": [
+        {
+          "ad": "Duvar Kesiti",
+          "url": ""
+        },
+        {
+          "ad": "Döşeme Detayı",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "kutuphane-maketi",
+      "tur": "maket",
+      "yer": "kaide-1",
+      "baslik": "Moda Kütüphanesi Maketi",
+      "yil": 2024,
+      "olcek": "1/200",
+      "malzeme": "Kontrplak, beyaz karton",
+      "aciklama": "Yarışma sunumu için hazırlanan kütle maketi. Tepe ışığı fenerleri ayrı parçalar olarak çıkarılabiliyor.",
+      "ilgili": "moda-mahalle-kutuphanesi",
+      "form": "pavyon",
+      "model": ""
+    },
+    {
+      "id": "kule-calismasi",
+      "tur": "maket",
+      "yer": "kaide-2",
+      "baslik": "Burgulu Kule Çalışması",
+      "yil": 2020,
+      "olcek": "1/500",
+      "malzeme": "Beyaz karton, pleksi",
+      "aciklama": "Her katın bir öncekine göre döndürüldüğü bir konut kulesi için form araştırması.",
+      "form": "kule",
+      "model": ""
+    },
+    {
+      "id": "bag-evi-maketi",
+      "tur": "maket",
+      "yer": "kaide-3",
+      "baslik": "Urla Bağ Evi Maketi",
+      "yil": 2023,
+      "olcek": "1/100",
+      "malzeme": "Balsa, karton",
+      "aciklama": "İşveren sunumu için hazırlanan, çatısı açılabilen çalışma maketi.",
+      "ilgili": "urla-bag-evi",
+      "form": "konut",
+      "model": ""
+    },
+    {
+      "id": "foca-kiyi-teraslari",
+      "tur": "maket",
+      "yer": "kaide-4",
+      "baslik": "Foça Kıyı Terasları",
+      "yil": 2022,
+      "olcek": "1/200",
+      "malzeme": "Beyaz karton, pleksi, mantar",
+      "aciklama": "Eski Foça'nın kıyı yamacında, denize doğru kademelenen dört katlı konut grubu için kütle maketi.",
+      "form": "teras",
+      "model": ""
+    },
+    {
+      "id": "kubbeli-kutuphane-etudu",
+      "tur": "maket",
+      "yer": "kaide-5",
+      "baslik": "Kubbeli Kütüphane Etüdü",
+      "yil": 2019,
+      "olcek": "1/100",
+      "malzeme": "Alçı, beyaz karton",
+      "aciklama": "Klasik Osmanlı külliye düzeninden yola çıkan, merkezi kubbeli bir okuma salonu için form çalışması.",
+      "form": "kubbe",
+      "model": ""
+    },
+    {
+      "id": "avlulu-konut-prototipi",
+      "tur": "maket",
+      "yer": "kaide-6",
+      "baslik": "Avlulu Konut Prototipi",
+      "yil": 2021,
+      "olcek": "1/100",
+      "malzeme": "Balsa, karton",
+      "aciklama": "Mardin ve Ege avlu evlerinden esinlenen, ortak avlu çevresinde gelişen bir konut tipolojisi.",
+      "ilgili": "mardin-tas-konak",
+      "form": "avlu",
+      "model": ""
+    },
+    {
+      "id": "datca-kiyi-evi-maketi",
+      "tur": "maket",
+      "yer": "kaide-7",
+      "baslik": "Datça Kıyı Evi Maketi",
+      "yil": 2022,
+      "olcek": "1/100",
+      "malzeme": "Balsa, karton",
+      "aciklama": "Teraslı kıyı evinin işveren sunumu için hazırlanan, çatısı sökülebilen maketi.",
+      "ilgili": "datca-kiyi-evi",
+      "form": "konut",
+      "model": ""
+    }
+  ]
+}
